@@ -28,9 +28,7 @@ https://github.com/arksine/moonraker
   Thanks to [wolfstlkr](https://www.reddit.com/r/ender3v2/comments/mdtjvk/octoprint_klipper_v2_lcd/gspae7y)
 
   `sudo apt-get install python3-pip python3-gpiozero python3-serial git`
-
-  `sudo pip3 install multitimer`
-
+  
   `git clone https://github.com/SuperPi911/DWIN_T5UIC1_LCD.git`
 
 
